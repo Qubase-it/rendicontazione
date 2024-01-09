@@ -1,0 +1,9 @@
+.vscode
+file
+Include
+Lib
+Scripts
+*.xls*
+*.accdb
+*.cfg
+test*
